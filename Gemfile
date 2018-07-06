@@ -5,6 +5,8 @@ ruby '2.5.1'
 
 # webpacker
 gem 'webpacker'
+# debug
+gem 'pry'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.2.0'
