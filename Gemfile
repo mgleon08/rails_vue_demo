@@ -7,6 +7,8 @@ ruby '2.5.1'
 gem 'webpacker'
 # debug
 gem 'pry'
+# Manage Procfile-based applications
+gem 'foreman'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.2.0'
